@@ -1,0 +1,7 @@
+C:\Users\davom\source\repos\CodeSignalJob\CodeSignalJob\bin\Debug\CodeSignalJob.exe.config
+C:\Users\davom\source\repos\CodeSignalJob\CodeSignalJob\bin\Debug\CodeSignalJob.exe
+C:\Users\davom\source\repos\CodeSignalJob\CodeSignalJob\bin\Debug\CodeSignalJob.pdb
+C:\Users\davom\source\repos\CodeSignalJob\CodeSignalJob\obj\Debug\CodeSignalJob.csprojAssemblyReference.cache
+C:\Users\davom\source\repos\CodeSignalJob\CodeSignalJob\obj\Debug\CodeSignalJob.csproj.CoreCompileInputs.cache
+C:\Users\davom\source\repos\CodeSignalJob\CodeSignalJob\obj\Debug\CodeSignalJob.exe
+C:\Users\davom\source\repos\CodeSignalJob\CodeSignalJob\obj\Debug\CodeSignalJob.pdb
